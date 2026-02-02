@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <h1>devmem-cli</h1>
   <p><strong>Cross-project memory for AI coding assistants</strong></p>
   
@@ -512,5 +512,3 @@ Blog: [brianmunene.me/blog](https://brianmunene.me/blog)
   <a href="https://github.com/brian-mwirigi/devmem-cli">GitHub</a> •
   <a href="https://github.com/brian-mwirigi/devmem-cli/issues">Issues</a>
 </div>
-#   d e v m e m - c l i  
- 
